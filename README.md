@@ -9,3 +9,6 @@ In order to locate data I navigated to Kaggle and searched through their "Creati
 In the end, I decided to pick the following dataset:
 Top 50 Bestselling Novels 2009 - 2021 of Amazon - https://www.kaggle.com/datasets/zwl1234/top-50-bestselling-novels-20092021-of-amazon
 
+You can view the raw data in the CSV file uploaded to this repository. I did not modify the file in any way from the one downloaded from Kaggle.
+
+All work, analysis and visualization was performed in the Jupyter Notebook uploaded to this repository.
